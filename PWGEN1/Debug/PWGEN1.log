@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\németistván\source\repos\pwgen1\pwgen1\main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\németistván\source\repos\pwgen1\pwgen1\main.cpp(16): warning C4102: 'onReset': unreferenced label
+  PWGEN1.vcxproj -> c:\Users\németistván\source\repos\PWGEN1\Debug\PWGEN1.exe
